@@ -1,0 +1,5 @@
+# Credenciais locais (copie config.example.json para config.json)
+config.json
+
+# Gerado pelo script
+ip-camera.txt
